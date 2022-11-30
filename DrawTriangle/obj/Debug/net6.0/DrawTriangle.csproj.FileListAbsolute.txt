@@ -1,0 +1,15 @@
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\bin\Debug\net6.0\DrawTriangle.exe
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\bin\Debug\net6.0\DrawTriangle.deps.json
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\bin\Debug\net6.0\DrawTriangle.runtimeconfig.json
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\bin\Debug\net6.0\DrawTriangle.dll
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\bin\Debug\net6.0\DrawTriangle.pdb
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\DrawTriangle.csproj.AssemblyReference.cache
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\DrawTriangle.AssemblyInfoInputs.cache
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\DrawTriangle.AssemblyInfo.cs
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\DrawTriangle.dll
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\refint\DrawTriangle.dll
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\DrawTriangle.pdb
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\DrawTriangle.genruntimeconfig.cache
+C:\Users\HP\git\PatikaProjeleri\DrawTriangle\obj\Debug\net6.0\ref\DrawTriangle.dll
