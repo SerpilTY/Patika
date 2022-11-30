@@ -1,0 +1,15 @@
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\bin\Debug\net6.0\DrawCircle.exe
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\bin\Debug\net6.0\DrawCircle.deps.json
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\bin\Debug\net6.0\DrawCircle.runtimeconfig.json
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\bin\Debug\net6.0\DrawCircle.dll
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\bin\Debug\net6.0\DrawCircle.pdb
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\DrawCircle.csproj.AssemblyReference.cache
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\DrawCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\DrawCircle.AssemblyInfoInputs.cache
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\DrawCircle.AssemblyInfo.cs
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\DrawCircle.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\DrawCircle.dll
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\refint\DrawCircle.dll
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\DrawCircle.pdb
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\DrawCircle.genruntimeconfig.cache
+C:\Users\HP\git\PatikaProjeleri\DrawCircle\obj\Debug\net6.0\ref\DrawCircle.dll
