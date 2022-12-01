@@ -1,0 +1,15 @@
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\bin\Debug\net6.0\ReverseCharacterPrinting.exe
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\bin\Debug\net6.0\ReverseCharacterPrinting.deps.json
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\bin\Debug\net6.0\ReverseCharacterPrinting.runtimeconfig.json
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\bin\Debug\net6.0\ReverseCharacterPrinting.dll
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\bin\Debug\net6.0\ReverseCharacterPrinting.pdb
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\ReverseCharacterPrinting.csproj.AssemblyReference.cache
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\ReverseCharacterPrinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\ReverseCharacterPrinting.AssemblyInfoInputs.cache
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\ReverseCharacterPrinting.AssemblyInfo.cs
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\ReverseCharacterPrinting.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\ReverseCharacterPrinting.dll
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\refint\ReverseCharacterPrinting.dll
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\ReverseCharacterPrinting.pdb
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\ReverseCharacterPrinting.genruntimeconfig.cache
+C:\Users\HP\git\PatikaProjeleri\ReverseCharacterPrinting\obj\Debug\net6.0\ref\ReverseCharacterPrinting.dll
