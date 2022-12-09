@@ -1,0 +1,15 @@
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\bin\Debug\net6.0\AreaCalculation.exe
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\bin\Debug\net6.0\AreaCalculation.deps.json
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\bin\Debug\net6.0\AreaCalculation.runtimeconfig.json
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\bin\Debug\net6.0\AreaCalculation.dll
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\bin\Debug\net6.0\AreaCalculation.pdb
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\AreaCalculation.csproj.AssemblyReference.cache
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\AreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\AreaCalculation.AssemblyInfoInputs.cache
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\AreaCalculation.AssemblyInfo.cs
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\AreaCalculation.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\AreaCalculation.dll
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\refint\AreaCalculation.dll
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\AreaCalculation.pdb
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\AreaCalculation.genruntimeconfig.cache
+C:\Users\HP\git\PatikaProjeleri\AreaCalculation\obj\Debug\net6.0\ref\AreaCalculation.dll

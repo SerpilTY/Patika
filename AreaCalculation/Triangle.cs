@@ -6,7 +6,9 @@ public class Triangle{
     static int edge3;
     static int prismHeight;
     static string dimension=Dimension.Choose();
-    public Triangle(){ 
+    
+    
+    public static void Calculate(){
 
     System.Console.WriteLine("Please enter the length of base edge");
     baseEdge=int.Parse(Console.ReadLine());
@@ -18,10 +20,6 @@ public class Triangle{
     edge3=int.Parse(Console.ReadLine());
     Console.WriteLine("Please enter the length of prism height");
     prismHeight=int.Parse(Console.ReadLine());
-
-    }
-    
-    public static void Calculate(){
 
             switch (Triangle.dimension)
             {
@@ -41,17 +39,17 @@ public class Triangle{
     
     public static void CalculatePerimeter(int edge1,int edge2,int baseEdge){
     double Perimeter=baseEdge+edge1+edge2;
-    System.Console.WriteLine(Perimeter);
+    System.Console.WriteLine("Perimeter of your shape based on given values: " +Perimeter);
     }
 
     public static void CalculateArea(int baseEdge,int heigth){
     double area=(baseEdge*heigth)/2;
-    System.Console.WriteLine(area);
+    System.Console.WriteLine("Area of your shape based on given values: " +area);
     }
 
     public static void CalculateVolume(int baseEdge,int heigth,int prismHeight){
     double volume=(baseEdge*heigth*prismHeight)/2;
-    System.Console.WriteLine(volume);
+    System.Console.WriteLine("Volume of your shape based on given values: " +volume);
     }
 
 }
