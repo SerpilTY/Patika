@@ -1,0 +1,15 @@
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\bin\Debug\net6.0\SumofIntegerBinaries.exe
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\bin\Debug\net6.0\SumofIntegerBinaries.deps.json
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\bin\Debug\net6.0\SumofIntegerBinaries.runtimeconfig.json
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\bin\Debug\net6.0\SumofIntegerBinaries.dll
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\bin\Debug\net6.0\SumofIntegerBinaries.pdb
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\SumofIntegerBinaries.csproj.AssemblyReference.cache
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\SumofIntegerBinaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\SumofIntegerBinaries.AssemblyInfoInputs.cache
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\SumofIntegerBinaries.AssemblyInfo.cs
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\SumofIntegerBinaries.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\SumofIntegerBinaries.dll
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\refint\SumofIntegerBinaries.dll
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\SumofIntegerBinaries.pdb
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\SumofIntegerBinaries.genruntimeconfig.cache
+C:\Users\HP\git\PatikaProjeleri\SumofIntegerBinaries\obj\Debug\net6.0\ref\SumofIntegerBinaries.dll
