@@ -1,6 +1,7 @@
-# Patika Kolaydan C# Zora Projeleri
-www.patika.dev C# eğitimi kapsamındaki projelerdir.
-# License
-[MIT](www.mit.edu)
+# Patika Easy to Difficult C# Projects
+Here are projects within the scope of C # education.
+<br>
+For more information you can visit; https://app.patika.dev/courses/c-projeleri
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)C# Eğitiminde oluşturduğumuz repo.
+
+
