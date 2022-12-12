@@ -1,0 +1,15 @@
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\bin\Debug\net6.0\CharacterReplacement.exe
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\bin\Debug\net6.0\CharacterReplacement.deps.json
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\bin\Debug\net6.0\CharacterReplacement.runtimeconfig.json
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\bin\Debug\net6.0\CharacterReplacement.dll
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\bin\Debug\net6.0\CharacterReplacement.pdb
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\CharacterReplacement.csproj.AssemblyReference.cache
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\CharacterReplacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\CharacterReplacement.AssemblyInfoInputs.cache
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\CharacterReplacement.AssemblyInfo.cs
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\CharacterReplacement.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\CharacterReplacement.dll
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\refint\CharacterReplacement.dll
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\CharacterReplacement.pdb
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\CharacterReplacement.genruntimeconfig.cache
+C:\Users\HP\git\PatikaProjeleri\CharacterReplacement\obj\Debug\net6.0\ref\CharacterReplacement.dll
