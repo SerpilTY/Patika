@@ -1,0 +1,15 @@
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\bin\Debug\net6.0\ConsonantDeterminer.exe
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\bin\Debug\net6.0\ConsonantDeterminer.deps.json
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\bin\Debug\net6.0\ConsonantDeterminer.runtimeconfig.json
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\bin\Debug\net6.0\ConsonantDeterminer.dll
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\bin\Debug\net6.0\ConsonantDeterminer.pdb
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\ConsonantDeterminer.csproj.AssemblyReference.cache
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\ConsonantDeterminer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\ConsonantDeterminer.AssemblyInfoInputs.cache
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\ConsonantDeterminer.AssemblyInfo.cs
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\ConsonantDeterminer.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\ConsonantDeterminer.dll
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\refint\ConsonantDeterminer.dll
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\ConsonantDeterminer.pdb
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\ConsonantDeterminer.genruntimeconfig.cache
+C:\Users\HP\git\PatikaProjeleri\ConsonantDeterminer\obj\Debug\net6.0\ref\ConsonantDeterminer.dll
