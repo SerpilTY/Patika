@@ -1,0 +1,15 @@
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\bin\Debug\net6.0\VotingApplication.exe
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\bin\Debug\net6.0\VotingApplication.deps.json
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\bin\Debug\net6.0\VotingApplication.runtimeconfig.json
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\bin\Debug\net6.0\VotingApplication.dll
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\bin\Debug\net6.0\VotingApplication.pdb
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\VotingApplication.csproj.AssemblyReference.cache
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\VotingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\VotingApplication.AssemblyInfoInputs.cache
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\VotingApplication.AssemblyInfo.cs
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\VotingApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\VotingApplication.dll
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\refint\VotingApplication.dll
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\VotingApplication.pdb
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\VotingApplication.genruntimeconfig.cache
+C:\Users\HP\git\PatikaProjeleri\VotingApplication\obj\Debug\net6.0\ref\VotingApplication.dll
