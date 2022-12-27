@@ -1,20 +1,28 @@
 namespace AtmApplication
 {
-    public static class Business
+    public class Business
     {
-    public static void Withdrawal(){
-        System.Console.WriteLine("You succesfully withdrawed money.");
-        Logger.TransactionLog();
-}
-    public static void Payment(){
-        System.Console.WriteLine("Your payment succesfully done.");
-        Logger.TransactionLog();
-}
-    public static void Deposit(){
-        System.Console.WriteLine("Your deposit succesfully done.");
-        Logger.TransactionLog();
-}
-
-    
+        Logger logger=new Logger();
+        public void Withdrawal()
+        {
+            string message="You succesfully withdrawed money.";
+            System.Console.WriteLine(message);
+            logger.WriteFile(message);
+            
+            
+        }
+        public void Payment()
+        {
+            string message="Your payment succesfully done.";
+            System.Console.WriteLine(message);
+            logger.WriteFile(message);
+            
+        }
+        public  void Deposit()
+        {
+            string message="Your deposit succesfully done.";
+            System.Console.WriteLine(message);
+            logger.WriteFile(message);
+        }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\bin\Debug\net6.0\AtmApplication.exe
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\bin\Debug\net6.0\AtmApplication.deps.json
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\bin\Debug\net6.0\AtmApplication.runtimeconfig.json
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\bin\Debug\net6.0\AtmApplication.dll
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\bin\Debug\net6.0\AtmApplication.pdb
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\AtmApplication.csproj.AssemblyReference.cache
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\AtmApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\AtmApplication.AssemblyInfoInputs.cache
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\AtmApplication.AssemblyInfo.cs
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\AtmApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\AtmApplication.dll
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\refint\AtmApplication.dll
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\AtmApplication.pdb
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\AtmApplication.genruntimeconfig.cache
+C:\Users\HP\git\PatikaProjeleri\AtmApplication\obj\Debug\net6.0\ref\AtmApplication.dll
