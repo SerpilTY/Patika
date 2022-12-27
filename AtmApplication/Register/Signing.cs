@@ -28,11 +28,12 @@ namespace AtmApplication
                 {
                     string message="Invalid entry, please register your Card.";
                     System.Console.WriteLine(message);
-                    logger.WriteFile(message) ;
+                    string message1="1 Fraud Transaction Detected";
+                    logger.WriteFile(message1) ;
                     RegisterCard();
-                    return false;
+                    return true;
                 }
-          }return false;
+          }return true;
 
         }
 
@@ -45,6 +46,10 @@ namespace AtmApplication
             User.Password = Console.ReadLine();
             User.Id=(Users.Count()+1);
             Users.Add(User);
+            foreach (var item in Users)
+            {
+                System.Console.WriteLine("id: "+item.Id +" Card Number:"+ item.CardNumber+" Password:"+item.Password);
+            }
         }
     }
 }

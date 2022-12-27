@@ -9,6 +9,10 @@ class Program
         user.Password = "55";
         Register.Users.Add(user);
         Logger logger = new Logger();
+        foreach (var item in Register.Users)
+            {
+                System.Console.WriteLine("id: "+item.Id +" Card Number:"+ item.CardNumber+" Password:"+item.Password);
+            }
 
         if (Register.UserCheck())
         {
@@ -21,8 +25,11 @@ class Program
             else if (operation == "2") Atm.Payment();
             else if (operation == "3") Atm.Deposit();
         }
-
-        logger.EndOfTheDayReadFile();
+        System.Console.WriteLine("Would you like to check end of the day log records?");
+        System.Console.WriteLine("If yes, press 1, else press 2");
+        string choice=Console.ReadLine();
+        if (choice=="1") logger.EndOfTheDayReadFile();
+        else System.Console.WriteLine("Thanks for using our bank.");
 
     }
 }
