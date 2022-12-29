@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLzG3T89Fij+fdWRPBeYEoTwo2gBDAELbs3KixB3NE3T6ivsCFWDfS9EoV35jInJ6ZMwgm8zECWTP3VVWpi1+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\git\\PatikaProjeleri\\BarcodeGenerator\\BarcodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
